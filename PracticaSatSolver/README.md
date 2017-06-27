@@ -1,1 +1,1 @@
-
+Practica SatSolver en c++ utilizando algorismo dpll y sistema de puntuaciones, con 3 ejemplos de juegos de prueba y un script que ejecuta todos los juegos de prueba y guardaba los resultados en un fichero
