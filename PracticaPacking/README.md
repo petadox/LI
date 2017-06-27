@@ -1,1 +1,1 @@
-Esta practica (a resolver en Prolog) consiste en intentar colocar sobre un tablero de unas dimensiones en concreto, un conjunto de piezas con ciertas dimensiones sin solapamiento.
+Esta practica (a resolver en Prolog) consiste en intentar colocar sobre un tablero de unas dimensiones en concreto, un conjunto de piezas con ciertas dimensiones sin solapamiento, el resultado ha de ser printar por consola el tablero numerado en función del numero de pieza que hay en cada posición
